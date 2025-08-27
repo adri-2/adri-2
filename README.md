@@ -17,7 +17,7 @@
  🔭 Plusieurs années d’expérience. Je conçois et implémente des solutions web scalables, performantes et modernes. Mes compétences couvrent **le front-end (React, Vue.js, TailwindCSS)**, **le back-end (Django,Flask)**, les bases de données (PostgreSQL, Mysql,Mongodb), Conception de maquette Figma, et le déploiement (Docker, GitHub Actions,Vercel).
  
 
-💬 Posez-moi des questions sur **Python,Vue, React,... ... ou tout autre sujet ici. <a href="mailto:adriensani237@gmail.com"> adriensani237@gmail.com</a>**
+💬 Posez-moi des questions sur **Python,Vue, React,... ... ou tout autre sujet ici. <a href="mailto:adrien.sani.dev@gmail.com"> adriensani237@gmail.com</a>**
 
 ⚡ Citation Lelouch vi Britannia (Code Geass)  **Les sacrifices sont inévitables pour atteindre ses objectifs.**
 
