@@ -14,10 +14,10 @@
 
 <div align="center">
  
- 🔭 Plusieurs années d’expérience. Je conçois et implémente des solutions web scalables, performantes et modernes. Mes compétences couvrent **le front-end (React, Vue.js, TailwindCSS)**, **le back-end (Django,Flask)**, les bases de données (PostgreSQL, Mysql,Mongodb), Conception de maquette Figma, et le déploiement (Docker, GitHub Actions,Vercel).
+ 🔭 Plusieurs années d’expérience. Je conçois et implémente des solutions web scalables, performantes et modernes. Mes compétences couvrent **le front-end (React.js, React Native, Vue.js, TailwindCSS)**, **le back-end (Django,Django Rest Framework,FastAPI)**, les bases de données (PostgreSQL, Mysql,Mongodb), Conception de maquette Figma, et le déploiement (Docker, GitHub Actions,Vercel).
  
 
-💬 Posez-moi des questions sur **Python,Vue, React,... ... ou tout autre sujet ici. <a href="mailto:adrien.sani.dev@gmail.com"> adrien.sani.dev@gmail.com</a>**
+💬 Posez-moi des questions sur **Python, JavaScript, TypeScript... ... ou tout autre sujet ici. <a href="mailto:adrien.sani.dev@gmail.com"> adrien.sani.dev@gmail.com</a>**
 
 ⚡ Citation Lelouch vi Britannia (Code Geass)  **Les sacrifices sont inévitables pour atteindre ses objectifs.**
 
@@ -27,10 +27,10 @@
   <a href="mailto:adrien.sani.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/adrien-sani-2890312aa" target="_blank">
+  <a href="https://www.linkedin.com/in/adrien-sani-673b7b394/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://adrien-dev.me" target="_blank">
+  <a href="https://adrien-dev.tech" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -41,11 +41,11 @@
 <br/>
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nest,solidity" />
    
   <br><br>
        
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,nextjs" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" />
     <br><br>
     
      
@@ -95,7 +95,7 @@
   <a href="mailto:adri.dev.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adri-2/" target="_blank">
+  <a href="https://www.linkedin.com/in/adrien-sani-673b7b394/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/adri2_dev" target="_blank">
@@ -109,8 +109,8 @@
 <p align="center">
     
 ## 🌐 Portfolio & Pages
- [![Website](https://img.shields.io/website?down_message=offline&label=adrien-dev.me&up_message=online&url=https%3A%2F%2Fadrien-dev.me)](https://adrien-dev.me)
+ [![Website](https://img.shields.io/website?down_message=offline&label=adrien-dev.tech&up_message=online&url=https%3A%2F%2Fadrien-dev.tech)](https://adrien-dev.tech)
 
-🔗 [adrien-dev.me](https://adrien-dev.me) — Mon site personnel et portfolio
+🔗 [adrien-dev.tech](https://adrien-dev.tech) — Mon site personnel et portfolio
 </p>
 
